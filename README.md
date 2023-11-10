@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Bateria" src="./capa/bateria.png.png" width="100%">
+  <img alt="Bateria" src="capa/bateria.png" width="100%">
 </p>
 
 ## 💻 Tecnologias
